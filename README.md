@@ -1,7 +1,5 @@
 # 2024-decoding-genealogy-tree-CS110-final-assignment
 
-# README
-
 ## Genealogy Tree Construction Using Longest Common Subsequence (LCS) and Levenshtein Distance
 
 *Final Assignment for CS110: Problem Solving with Data Structures and Algorithms*
